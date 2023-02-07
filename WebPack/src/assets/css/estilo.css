@@ -1,0 +1,7 @@
+body {
+    background-color: blueviolet;
+    background-image: url(../imgs/imagem.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
